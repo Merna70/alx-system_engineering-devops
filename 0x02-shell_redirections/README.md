@@ -1,1 +1,1 @@
-My readmy file
+my readme file
